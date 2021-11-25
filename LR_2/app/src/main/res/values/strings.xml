@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab_1_Var_14</string>
+    <string-array name="Authors">
+        <item>Ivanov Ivanovich</item>
+        <item>J. K. Rowling</item>
+        <item>Andjei Sapkowski</item>
+    </string-array>
+    <string name="radio_1">1901-1950</string>
+    <string name="radio_2">1951-2000</string>
+    <string name="radio_3">2001-present</string>
+
+    <string name="dialog_message">Welcome to Alert Dialog</string>
+    <string name="dialog_title">Javatpoint Alert Dialog</string>
+</resources>
